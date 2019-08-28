@@ -7,6 +7,8 @@ inspect and then either delete or move them to a different location.
 
 Implemented in Java 8 and SWT. Runs on Windows/OSX/Linux.
 
+Or simply download the app at their amazing website, @ https://www.coderslagoon.com
+
 Development
 -----------
 
